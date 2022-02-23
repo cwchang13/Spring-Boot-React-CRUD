@@ -4,8 +4,8 @@
 
 
 ## 預覽
-<img src="https://github.com/cwchang13/Note/blob/main/index.png" alt="index" width="70%">
-<img src="https://github.com/cwchang13/Note/blob/main/book-list.png" alt="index" width="70%">
+<img src="https://user-images.githubusercontent.com/38981528/155269547-dc0ea022-bef7-4e56-a56b-6ff6ea6cca2e.png" alt="index" width="70%">
+<img src="https://user-images.githubusercontent.com/38981528/155269626-2ef59470-4635-4d45-9d68-54b8dbd0d24f.png" alt="index" width="70%">
 
 ## 安裝說明
 將檔案Clone到電腦後，分為兩個資料夾：
