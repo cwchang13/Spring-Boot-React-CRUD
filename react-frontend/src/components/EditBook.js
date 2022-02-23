@@ -36,6 +36,10 @@ const EditBook = () => {
                 })
         }
     }
+    
+    const cancel = () => {
+        navigate("/all");
+    }
 
     useEffect(() => {
         if (id) {
@@ -88,7 +92,7 @@ const EditBook = () => {
                                 </div>
 
                                 <button onClick={(e) => saveBook(e)} className="btn btn-success mr-2">儲存</button>
-                                <button className="btn btn-danger mr-2">取消</button>
+                                <button onClick={() => cancel()} className="btn btn-danger mr-2">取消</button>
                             </form>
 
 
